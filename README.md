@@ -22,7 +22,7 @@ Bot conversacional para Telegram que implementa servicios típicos de una entida
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tuusuario/bot-bancario.git
+git clone https://github.com/SantinoBertoia/Evaluacion-Tecnica-Delto-Santino-Bertoia.git
 cd bot-bancario
 ```
 
